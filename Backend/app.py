@@ -13,7 +13,7 @@ import requests
 
 # --- Config ---
 MODEL_PATH    = '2_290-0_306.pth'
-MODEL_URL     = 'https://github.com/Allen1reality/Karpati-chess/releases/download/K-chess-m/2_290-0_306.pth'
+MODEL_URL     = 'https://github.com/Allen1reality/K-Chess/releases/download/K-chess3/2_290-0_306.pth'
 MOVE2ID_JSON  = 'move_to_id.json'
 SIMULATIONS   = 200
 CPUCT         = 1.0
